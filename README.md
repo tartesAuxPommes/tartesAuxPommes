@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi, i go by blase
+
+i'm an IT student in Polytech Annecy, IDU speciality 
+i've learned C/C++, JS/TS doing silly projects on my own, which you can find a bunch here
+also did a bunch of web CTFs / crackmes
+
+i'm unemployed / looking for an internship for this summer and next summer 
 
 <!--
 **TheBigBlase/thebigblase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
