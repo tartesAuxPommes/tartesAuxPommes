@@ -1,11 +1,12 @@
-Hi, i go by blase
+Hi, i'm maxime paulin
 
 i'm an IT student in Polytech Annecy, IDU speciality 
 i've learned C/C++, JS/TS doing silly projects on my own, which you can find a bunch here
 also did a bunch of web CTFs / crackmes
 
-i'm unemployed / looking for an internship for this summer and next summer 
+a lot of things here are waiting to be updated or abandonned. Their purpose was mainly to learn, having them working is a plus
 
+i learn a lot by doing some random stuff, not by actually following tutorials, hence the state of a lot of projects here
 <!--
 **TheBigBlase/thebigblase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
