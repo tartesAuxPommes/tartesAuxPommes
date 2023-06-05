@@ -1,4 +1,4 @@
-Hi, i'm maxime paulin
+Hi, i'm paulin m.
 
 i'm an IT student in Polytech Annecy, IDU speciality 
 i've learned C/C++, JS/TS doing silly projects on my own, which you can find a bunch here
