@@ -1,23 +1,11 @@
-Hi, i'm paulin m.
+Howdy, im Violette ! 
 
-i'm an IT student in Polytech Annecy, IDU speciality 
+
+i'm an 22 y/o IT student in Polytech Annecy, IDU speciality / Sherbrooke university
 i've learned C/C++, JS/TS doing silly projects on my own, which you can find a bunch here
 also did a bunch of web CTFs / crackmes
 
-a lot of things here are waiting to be updated or abandonned. Their purpose was mainly to learn, having them working is a plus
+I learn a lot by doing some random stuff and messing around, so pretty much nothing works here lmao
 
-i learn a lot by doing some random stuff, not by actually following tutorials, hence the state of a lot of projects here
-<!--
-**TheBigBlase/thebigblase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use another git server at (bigblase.xyz)[https://git.bigblase.xyz/violette], just so stuff feels
+more personnal & i *own* the data
